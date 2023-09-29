@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background: black;
+  }
+  
+  .button {
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid orange;
+    border-radius: 100px;
+    cursor: auto;
+    box-shadow: -8px -8px 15px rgb(255, 152, 117, 0.4);
+  }
+  
+  button:hover {
+    opacity: 0.8;
+    background-color: black;
+    color: white;
+  
+  }
+  
+  .equl {
+    background-color: orange;
+  
+  }
+  
+  .ac {
+    color: orange;
+  }
+  
+  .del {
+    color: orange;
+  }
+  
+  .row {
+    margin: 5px 0;
+  }
+  
+  .row input {
+    font-size: 15px;
+    margin: 0;
+    padding: 11px 34px;
+    border-radius: 20px;
+    border: 2px solid orange;
+  }
